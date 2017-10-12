@@ -1,0 +1,8 @@
+windows 安装git。
+安装来源https://pan.baidu.com/s/1kU5OCOB#list/path=%2Fpub%2Fgit。
+安装完成后，还需要最后一步设置，在命令行输入：
+
+$ git config --global user.name "Your Name"
+$ git config --global user.email "email@example.com"
+Git是分布式版本控制系统，自报家门：你的名字和Email地址。
+
